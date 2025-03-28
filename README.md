@@ -22,9 +22,11 @@ Payel Pramanik<br>
 Daria Valenkova<br>
 Ram Sarkar<br>
 
-## Citations:
+## Citation:
 
 Please do cite our paper in case you find it useful for your research.
+
+Citation -
 
 ```bibtex
 @inproceedings{chakraborty2024dual,
