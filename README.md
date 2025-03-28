@@ -4,7 +4,7 @@ This is the official implementation of "A Dual Attention-aided DenseNet-121 for 
 
 Presented in '13th Mediterranean Conference on Embedded Computing (MECO)', 11-14 June 2024, Budva, Montenegro.
 
-## Overall workflow:
+## Overall Workflow:
 
 ![image](https://github.com/user-attachments/assets/b83df2e5-7854-409d-9f35-55d0f3566c6d) 
 
