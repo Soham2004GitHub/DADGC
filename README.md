@@ -16,7 +16,11 @@ Presented in '13th Mediterranean Conference on Embedded Computing (MECO)', 11-14
 
 ## Authors:
 
-Soham Chakraborty, Ayush Roy, Payel Pramanik, Daria Valenkova, Ram Sarkar 
+Soham Chakraborty<br>
+Ayush Roy<br>
+Payel Pramanik<br>
+Daria Valenkova<br>
+Ram Sarkar<br>
 
 ## Citations:
 
@@ -31,6 +35,7 @@ Please do cite our paper in case you find it useful for your research.
   year={2024},
   organization={IEEE}
 }
+```
 
 Link to our paper - https://ieeexplore.ieee.org/abstract/document/10577902
 
