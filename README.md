@@ -10,7 +10,7 @@ Presented in '13th Mediterranean Conference on Embedded Computing (MECO)', 11-14
 
 ![image](https://github.com/user-attachments/assets/79ca827b-80fc-4985-8b59-75b4a40ac155)
 
-### Heatmaps 
+### Heatmaps: 
 
 ![image](https://github.com/user-attachments/assets/d2b6de76-64b3-42f2-9b17-ab363427bea6)
 
