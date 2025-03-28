@@ -10,6 +10,32 @@ Presented in '13th Mediterranean Conference on Embedded Computing (MECO)', 11-14
 
 ![image](https://github.com/user-attachments/assets/79ca827b-80fc-4985-8b59-75b4a40ac155)
 
+### Heatmaps 
+
+![image](https://github.com/user-attachments/assets/d2b6de76-64b3-42f2-9b17-ab363427bea6)
+
+## Authors:
+
+Soham Chakraborty
+Ayush Roy
+Payel Pramanik
+Daria Valenkova
+Ram Sarkar 
+
+## Citations:
+
+Please do cite our paper in case you find it useful for your research.
+@inproceedings{chakraborty2024dual,
+  title={A Dual Attention-aided DenseNet-121 for Classification of Glaucoma from Fundus Images},
+  author={Chakraborty, Soham and Roy, Ayush and Pramanik, Payel and Valenkova, Daria and Sarkar, Ram},
+  booktitle={2024 13th Mediterranean Conference on Embedded Computing (MECO)},
+  pages={1--4},
+  year={2024},
+  organization={IEEE}
+}
+
+Link to our paper - https://ieeexplore.ieee.org/abstract/document/10577902
+
 
 
 
